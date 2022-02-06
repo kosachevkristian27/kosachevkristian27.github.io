@@ -1,0 +1,31 @@
+body {
+	font-size: 20px;
+	font-family: 'Lobster', cursive;
+}
+
+p {
+	color:hotpink;
+}
+
+h1 {
+	color: dodgerblue;
+	font-size: 60px;
+}
+
+div {
+	width: 90%;
+	margin: auto;
+}
+
+a {
+	text-decoration: none;
+	color: tomato;
+}
+
+img {
+	max-width: 900px;
+	width: 100%;
+	height: auto;
+	display: block;
+	margin: auto;
+}
